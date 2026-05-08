@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Estudante de Engenharia de Software<br>🌱 Estou aprendendo Java Script e CSS com objetivo de obter uma formação full stack<br>🌍 Natural do Rio de janeiro 🇧🇷<br>🧠 Inglês avançado<br>🏈 Fato curioso: Estou aprendendo Francês</p>
+<p align="left">📚 Estudante de Engenharia de Software<br>🌱 Estou aprendendo Python e Docker com o objetivo de virar um Engenheiro de Dados<br>🌍 Natural do Rio de janeiro 🇧🇷<br>🧠 Inglês avançado<br>🏈 Fato curioso: Faço parte de uma banda</p>
 
 ###
 
